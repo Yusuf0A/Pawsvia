@@ -30,7 +30,7 @@ Traditional pet adoption websites often lack emotional context. Many people adop
 
 ## Timeline
 
-| Date Range     | Deliverables                                                     |
+| Date Range     | Deliverables/To-Do List                                                    |
 |----------------|------------------------------------------------------------------|
 | Apr 22         | Submit GitHub repository and Figma mockups                      |
 | Apr 24–27      | Implement mood + location selection and dynamic search logic     |
