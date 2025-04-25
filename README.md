@@ -25,8 +25,8 @@ Traditional pet adoption websites often lack emotional context. Many people adop
 | Petfinder API           | Fetch adoptable pet data based on filters                   |
 | Google Maps API / Leaflet.js | Display nearby shelters and their locations        |
 | localStorage            | Store and retrieve user's favorite pets                     |
-| Figma                   | Wireframes and UI mockup design                             |
-| GitHub                  | Version control and collaborative code management           |
+| Figma                   | UI mockup design                             |
+| GitHub                  | Code management           |
 
 ## Timeline
 
