@@ -1,4 +1,4 @@
-# Pawsvia – Finding Your Perwfect Match
+# Pawsvia – Finding Your Pawfect Match
 
 ## Overview
 **Pawsvia** is a personalized pet adoption web application that helps users find adoptable pets near them based on the personality traits they’re looking for in a companion. 
